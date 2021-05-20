@@ -1,0 +1,4 @@
+n=int(input())
+x=n%10
+y=int(n/10)
+print(y,x)
